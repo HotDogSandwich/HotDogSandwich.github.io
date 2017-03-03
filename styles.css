@@ -1,0 +1,9 @@
+body { background: AliceBlue;
+       color: Black;
+       font-size: 14pt; }
+	   
+body {font-family: 'Roboto', sans-serif;}
+
+nav li { padding: 10px;
+	    margin: 5px;
+	    background: white }
